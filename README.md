@@ -50,16 +50,13 @@ I build practical software that puts data and AI to work: full-stack web apps, r
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**NPMS Clinical PWA**](https://github.com/Bahle05/npms-clinical-pwa) | Nurse Patient Management System taken from ER schema and UML design to a working full-stack web app, with role-based Firestore security rules (team project) | React, Vite, Firebase |
-| [**PulseCare Clinical Database**](https://github.com/Bahle05/DB-Xccelerators-PulseCare) | Relational healthcare database with DDL scripts and a Python command-line client for managing patient records | MySQL, Python |
-| [**ShareGenie**](https://github.com/Bahle05/ShareGenie) | Community donation platform where people give away items they no longer need and others find what they need | Node.js, Express, EJS, MongoDB |
-| [**LudiMove**](https://github.com/Bahle05/LudiMove) | Student transport website with a working fare calculator that simulates distance-based pricing | HTML, CSS, JavaScript |
-<!-- Uncomment each row once the repo is public and cleaned:
-| [**Hackathon project**](https://github.com/Bahle05/REPO) | 1st place, UWC Mental Health Hackathon 2024 | ... |
-| [**Academic Second Brain**](https://github.com/Bahle05/REPO) | Retrieval-augmented generation study assistant that turns course material into a searchable knowledge base | Python, FastAPI, ChromaDB |
-| [**BBL ConnectBot**](https://github.com/Bahle05/bbl-connectbot-mvi) | Automated client assistant handling queries across channels | Node.js, n8n, Groq API, Twilio |
-| [**ML Implementation Suite**](https://github.com/Bahle05/REPO) | Linear regression from scratch with gradient descent and feature scaling | Python, NumPy, Matplotlib |
--->
+| [**ML from Scratch: Health Data**](https://github.com/Bahle05/ml-from-scratch) | Linear regression, logistic regression and a neural network written in NumPy, applied to diabetes progression and breast cancer diagnosis, with tests | Python, NumPy, Jupyter |
+| [**NPMS Clinical PWA**](https://github.com/Bahle05/npms-clinical-pwa) | Ward app with allergy and drug-interaction checks, MEWS early-warning scores and a hash-chained audit trail ([live demo](https://npms-d5d5b.web.app)) | React, Firebase, Vitest |
+| [**BBL ConnectBot**](https://github.com/Bahle05/bbl-connectbot-mvi) | Chat front desk for a local business: triages requests, quotes prices, logs tickets to Google Sheets and confirms on WhatsApp | Node.js, Express, Twilio, Google Sheets API |
+| [**PulseCare Clinical Database**](https://github.com/Bahle05/DB-Xccelerators-PulseCare) | 10-table normalised clinic database with a Python client running clinical safety queries | MySQL, Python |
+| [**AfriGlow Careers**](https://github.com/Bahle05/AfriGlow-Web) | Career services site with a live South African job board | React, FastAPI, Tailwind |
+| [**ShareGenie**](https://github.com/Bahle05/ShareGenie) | Community donation platform with secure accounts | Node.js, Express, MongoDB, EJS |
+| [**Mental Health App**](https://github.com/LeonMotaung/final-mentalhealthapp) | 🏆 1st place, UWC Mental Health Hackathon 2024 (team project) | Node.js, MongoDB |
 
 ---
 
