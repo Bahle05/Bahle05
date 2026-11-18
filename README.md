@@ -1,92 +1,66 @@
-<h1 align="center">Hi there 👋, I'm Bahle Ludidi</h1>
-<h3 align="center">🚀 A dedicated and ambitious Computer Science student from UWC</h3>
+<h1 align="center">Hi, I'm Bahle Ludidi</h1>
+<p align="center"><b>Final-year Computer Science & Information Systems student · University of the Western Cape · Cape Town, South Africa</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💻+Information+Systems+Major+@+UWC;🏆+Hackathon+Champion+2024+(Mental+Health);🚀+Aspiring+Software+Engineer+%7C+Cybersecurity+%7C+Data+Analyst" alt="Typing SVG" />
+  <a href="mailto:Bahleludidi05@gmail.com"><img src="https://img.shields.io/badge/Email-1F3864?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/bahle-ludidi-727657352"><img src="https://img.shields.io/badge/LinkedIn-1F3864?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- <a href="https://bahle05.github.io"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"></a> -->
 </p>
 
 ---
 
-### 👨‍🎓 About Me
+### About me
 
-I am a **second-year Computer Science student** majoring in **Information Systems** at the **University of the Western Cape**. I’ve built a solid foundation in programming, data structures, algorithms, databases, and systems analysis.
+I build practical software that puts data and AI to work: full-stack web apps, retrieval-augmented generation tools, workflow automation and machine learning models. I care about building for real users, which is what won my team the **UWC Mental Health Hackathon in 2024**.
 
-✨ I’m passionate about **software development**, **cybersecurity**, and **data analytics**, and I love building real-world, user-centered solutions.
+- 🎓 BSc Computer Science (Information Systems), UWC, 72% weighted average, graduating 2027
+- 🛡️ Completed Absa Group Internal Audit's **Inkanyezi IT Audit & Cyber Security Academy** (2026)
+- 🌱 Interested in software engineering, data and AI, and technology risk
+- 🤝 Moshal Program scholar, first-year mentor, and Social Media Coordinator at Geekulcha UWC
+- 💼 Open to **2027 graduate programmes** in software development, data analytics and technology risk
 
-🏆 In 2024, I became a **Hackathon Champion** at UWC for developing a mental health–focused project that tackled emotional well-being through tech-driven solutions.
+### Tech stack
 
-🌟 One of my proudest personal projects is **Share Genie**, a website where people can **donate items** they no longer need and others can find what they’re looking for—promoting community, sharing, and support.
+**Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-📚 Currently sharpening my skills in **Data Structures & Algorithms** through assignments and independent problem solving.
+**Web & backend:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
----
+**Data & AI:**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1F3864?style=flat)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
----
+### Featured projects
 
-### 📌 Featured Projects
-
-#### 🧠 Hackathon 2024 – Mental Health Project
-> 🏆 1st Place Winner at the UWC Hackathon  
-> 💬 Focused on promoting mental well-being  
-> 🤝 Built in a team to solve real student challenges
-
-#### 💡 Share Genie (Personal Project)
-> 🧺 A donation and sharing platform for communities  
-> 🌍 Users can give or receive essential items  
-> 💡 Inspired by social good and tech for impact
-
-
-
----
-
-### 📚 Academic Highlights
-
-- ✅ Java Programming & OOP
-- ✅ Data Structures and Algorithms
-- ✅ Systems Analysis
-- ✅ Cybersecurity Fundamentals
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahle05&show_icons=true&theme=radical" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahle05&layout=compact&theme=radical" alt="top langs"/>
-</p>
+| Project | What it does | Built with |
+|---|---|---|
+| [**NPMS Clinical PWA**](https://github.com/Bahle05/npms-clinical-pwa) | Nurse Patient Management System taken from ER schema and UML design to a working full-stack web app, with role-based Firestore security rules (team project) | React, Vite, Firebase |
+| [**PulseCare Clinical Database**](https://github.com/Bahle05/DB-Xccelerators-PulseCare) | Relational healthcare database with DDL scripts and a Python command-line client for managing patient records | MySQL, Python |
+| [**ShareGenie**](https://github.com/Bahle05/ShareGenie) | Community donation platform where people give away items they no longer need and others find what they need | Node.js, Express, EJS, MongoDB |
+| [**LudiMove**](https://github.com/Bahle05/LudiMove) | Student transport website with a working fare calculator that simulates distance-based pricing | HTML, CSS, JavaScript |
+<!-- Uncomment each row once the repo is public and cleaned:
+| [**Hackathon project**](https://github.com/Bahle05/REPO) | 1st place, UWC Mental Health Hackathon 2024 | ... |
+| [**Academic Second Brain**](https://github.com/Bahle05/REPO) | Retrieval-augmented generation study assistant that turns course material into a searchable knowledge base | Python, FastAPI, ChromaDB |
+| [**BBL ConnectBot**](https://github.com/Bahle05/bbl-connectbot-mvi) | Automated client assistant handling queries across channels | Node.js, n8n, Groq API, Twilio |
+| [**ML Implementation Suite**](https://github.com/Bahle05/REPO) | Linear regression from scratch with gradient descent and feature scaling | Python, NumPy, Matplotlib |
+-->
 
 ---
 
-### 🌐 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/bahle-ludidi-727657352/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bahleludidi05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🎯 Goals for 2025
-- [x] Win a Hackathon 🏆
-- [x] Launch a meaningful project (✅ Share Genie)
-- [ ] Contribute to Open Source
-- [ ] Master DSA and LeetCode challenges
-- [ ] Secure an internship in Software or Cybersecurity
-
----
-
-_“Striving to code with purpose, learn with passion, and build for impact.”_
+<p align="center"><i>Building toward an accessible fintech startup that tackles youth unemployment in South Africa.</i></p>
